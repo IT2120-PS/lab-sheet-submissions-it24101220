@@ -1,4 +1,4 @@
-setwd("C:C:\\Users\\Asus\\OneDrive - Sri Lanka Institute of Information Technology\\Desktop\\Y2S1\\PAS\\IT24101220 PAS LAB 06")
+setwd("C:\\Users\\Asus\\OneDrive - Sri Lanka Institute of Information Technology\\Desktop\\Y2S1\\PAS\\IT24101220 PAS LAB 06")
 getwd()
 
 #01
@@ -22,3 +22,4 @@ lamda <- 12
 
 probability_X <- dpois(15, lamda)
 probability_X
+
